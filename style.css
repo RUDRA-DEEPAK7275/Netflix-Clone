@@ -1,0 +1,76 @@
+/* HEADER-NAVBAR */
+header {
+    background-color: black;
+  
+}
+
+
+.nav-head2 {
+   
+    font-size: 13px;
+    
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+.bt .bt-j {
+    background-color: #f40612;
+
+}
+
+.CC {
+    font-family: Arial, sans-serif;
+    background-color: #141414;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    margin: 0;
+}
+
+.C {
+    width: 90%;
+    max-width: 1500px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+.C-T-C {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.C-I {
+    min-width: 320px;
+    margin: 0 5px;
+}
+
+
+.C-N {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+
+.C-N button {
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.C h2{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
